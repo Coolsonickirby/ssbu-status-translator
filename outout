@@ -1,0 +1,6 @@
+WorkModule::off_flag(
+	fighter.module_accessor,
+	*FIGHTER_ROY_STATUS_SPECIAL_N_FLAG_CONTINUE_MOT
+);
+fighter.sub_shift_status_main()
+None
